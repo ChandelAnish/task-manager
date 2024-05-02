@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(231, 230, 230);
+}
+.task
+{
+    width: 60rem;
+    height: 4rem;
+    background-color: white;
+    box-shadow: 2px 2px 2px; 
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin: 15px;
+}
+.button
+{
+    margin-left: 1rem;
+    height: 36px;
+}
+.task p{
+    height: 36px;
+    width: 42rem;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
+}
